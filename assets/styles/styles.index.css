@@ -25,7 +25,7 @@ nav.sidebar {
     transition: .2s;
 }
 
-nav.sidebar:hover {
+nav.sidebar.expand {
     width: 300px; 
 }
 
