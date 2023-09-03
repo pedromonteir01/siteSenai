@@ -4,4 +4,4 @@ let menuSide = document.querySelector('.sidebar')
 
 btnExp.addEventListener('click', function(){
     menuSide.classList.toggle('expand')
-})
+});
